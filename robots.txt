@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iontifla.github.io/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/app/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/assets/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/css/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/data/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/includes/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/item/sitemap.iontifla.gz
+Sitemap: https://iontifla.github.io/src/sitemap.iontifla.gz
